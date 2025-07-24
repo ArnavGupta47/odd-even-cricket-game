@@ -4,15 +4,15 @@ A Python-based logic game where the player and the computer play different-style
 
 ## 📝 How It Works
 
-- The game is lossely based on cricket.
-- The toss is decided by who correctly guessed whether the sum was odd or even of the first numbers chosen by both the players. 
+- The game is loosely based on cricket.
+- The toss is decided by who correctly guessed whether the sum was odd or even of the first numbers chosen by both players. 
 
 ## 🎯 Features
--Turn-based play: Choose to bat or bowl first.
--Simple console interface.
--Randomized computer behavior.
--Keeps track of both players' scores.
--Clear match outcome: Win / Lose .
+- Turn-based play: Choose to bat or bowl first.
+- Simple console interface.
+- Randomized computer behavior.
+- Keeps track of both players' scores.
+- Clear match outcome: Win / Lose.
 
 ## 💻 Technologies Used
 
